@@ -1,7 +1,7 @@
 ﻿<?php
 /**
 *	Plugin Name: Live Date for News Stories
-* Text Domain: live-date-for-news-stories
+*	Text Domain: live-date-for-news-stories
 *	Plugin URI: https://lab.mertskaplan.com/liveDate4news
 *	Description: Haberler için okurun zaman çizgisine göre değişen "ne zaman" bilgisi. <code>[liveDate4news]15.4.2018 17:41[/liveDate4news]</code> şeklinde kısa kod ile kullanabilirsiniz.
 *	Version: 1.0
@@ -11,7 +11,7 @@
 **/
 
 function liveDate4news($capital, $content) {
-  $timestamp = strtotime($content);
+	$timestamp = strtotime($content);
 	$now = time();
 	$date = date('j F Y', $now);
 	$littleAgo = $now - (60 * 20);
