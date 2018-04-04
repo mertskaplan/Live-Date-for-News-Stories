@@ -2,7 +2,7 @@
 /**
 *	Plugin Name: Live Date for News Stories
 *	Text Domain: live-date-for-news-stories
-* Doman Path: /lang
+*	Doman Path: /lang
 *	Plugin URI: https://lab.mertskaplan.com/liveDate4news
 *	Description: Haberler için okurun zaman çizgisine göre değişen "ne zaman" bilgisi. <code>[liveDate4news]15.4.2018 17:41[/liveDate4news]</code> şeklinde kısa kod ile kullanabilirsiniz.
 *	Version: 1.0
