@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-04-04 17:23+0300\n"
+"PO-Revision-Date: 2018-04-04 20:10+0300\n"
+"Last-Translator: Mert S. Kaplan <mail@mertskaplan.com>\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: live-date-for-news-stories.php:26
+msgid "ERROR!"
+msgstr "HATA!"
+
+#: live-date-for-news-stories.php:28
+msgid "a little ago"
+msgstr "biraz önce"
+
+#: live-date-for-news-stories.php:30
+msgid "today"
+msgstr "bugün"
+
+#: live-date-for-news-stories.php:32
+msgid "yesterday"
+msgstr "dün"
+
+#: live-date-for-news-stories.php:31 live-date-for-news-stories.php:34
+msgid "in the past days"
+msgstr "geçtiğimiz günlerde"
+
+#: live-date-for-news-stories.php:38
+msgid "last week"
+msgstr "geçen hafta"
+
+#: live-date-for-news-stories.php:40
+msgid "in the past few weeks"
+msgstr "geçtiğimiz haftalarda"
+
+#: live-date-for-news-stories.php:42
+msgid "last month"
+msgstr "geçen ay"
+
+#: live-date-for-news-stories.php:48
+msgid "on"
+msgstr "on"
